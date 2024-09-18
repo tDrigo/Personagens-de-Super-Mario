@@ -37,5 +37,6 @@ Se você quiser ajudar a melhorar este projeto, fique à vontade para abrir um p
 **Créditos:**
 
 Desenvolvido por: Thais Fernanda Drigo Nobrega
+Projeto construído durante a Imersão Dev da Alura com Google Gemini
 
 **#SuperMario #JavaScript #HTML #CSS #Desenvolvedor #GameDev #ImersãoAluraGemini**
