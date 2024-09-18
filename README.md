@@ -1,4 +1,4 @@
-### **Salve, aventureiro(a)! **
+### **Salve, aventureiro(a)!**
 
 **Prepare-se para uma jornada épica pelo universo do Super Mario!** 
 
